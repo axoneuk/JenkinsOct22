@@ -29,7 +29,6 @@ public class TestApplication {
     @Test
     public void test5(){
         System.out.println("running test 5");
-        Assert.assertFalse(true);
     }
 
 }
